@@ -39,5 +39,5 @@ The Fibonacci Sequence Nth Term Finder offers the following key features:
 
 - Lists all results of the sequence up to the nth term.
 
-Technologies Used
+## Technologies Used
 - Python
